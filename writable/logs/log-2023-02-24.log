@@ -1,0 +1,165 @@
+CRITICAL - 2023-02-24 01:29:50 --> include(connect.php): failed to open stream: No such file or directory
+in APPPATH\Views\index.php on line 265.
+ 1 APPPATH\Views\index.php(265): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(connect.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\index.php', 265, [])
+ 2 APPPATH\Views\index.php(265): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('index', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('index')
+ 7 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-24 01:30:16 --> include(connect.php): failed to open stream: No such file or directory
+in APPPATH\Views\index.php on line 265.
+ 1 APPPATH\Views\index.php(265): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(connect.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\index.php', 265, [])
+ 2 APPPATH\Views\index.php(265): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('index', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('index')
+ 7 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-24 01:31:32 --> include(connect.php): failed to open stream: No such file or directory
+in APPPATH\Views\index.php on line 266.
+ 1 APPPATH\Views\index.php(266): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(connect.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\index.php', 266, [])
+ 2 APPPATH\Views\index.php(266): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('index', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('index')
+ 7 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-24 01:31:34 --> include(connect.php): failed to open stream: No such file or directory
+in APPPATH\Views\index.php on line 266.
+ 1 APPPATH\Views\index.php(266): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(connect.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\index.php', 266, [])
+ 2 APPPATH\Views\index.php(266): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('index', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('index')
+ 7 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-24 01:31:34 --> include(connect.php): failed to open stream: No such file or directory
+in APPPATH\Views\index.php on line 266.
+ 1 APPPATH\Views\index.php(266): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(connect.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\index.php', 266, [])
+ 2 APPPATH\Views\index.php(266): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('index', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('index')
+ 7 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-24 01:31:35 --> include(connect.php): failed to open stream: No such file or directory
+in APPPATH\Views\index.php on line 266.
+ 1 APPPATH\Views\index.php(266): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(connect.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\index.php', 266, [])
+ 2 APPPATH\Views\index.php(266): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('index', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('index')
+ 7 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-24 01:39:56 --> include(connect.php): failed to open stream: No such file or directory
+in APPPATH\Views\index.php on line 265.
+ 1 APPPATH\Views\index.php(265): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(connect.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\index.php', 265, [])
+ 2 APPPATH\Views\index.php(265): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('index', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('index')
+ 7 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-24 01:40:00 --> include(connect.php): failed to open stream: No such file or directory
+in APPPATH\Views\index.php on line 265.
+ 1 APPPATH\Views\index.php(265): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(connect.php): failed to open stream: No such file or directory', 'APPPATH\\Views\\index.php', 265, [])
+ 2 APPPATH\Views\index.php(265): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\index.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('index', [], true)
+ 6 APPPATH\Controllers\Home.php(9): view('index')
+ 7 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-24 06:25:38 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-24 06:27:17 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-24 06:27:21 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-24 06:27:36 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-24 06:27:38 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-24 06:27:46 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-24 11:46:03 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-24 11:46:07 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-24 11:46:49 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-24 11:47:40 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->index()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')

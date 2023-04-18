@@ -1,0 +1,124 @@
+CRITICAL - 2023-02-27 02:19:27 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->test()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 02:19:32 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->test()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 02:20:17 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->test()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 02:20:36 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->test()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 02:22:57 --> Class 'App\Controllers\UsersModel' not found
+in APPPATH\Controllers\Userscontrol.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Userscontrol->test()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userscontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 12:50:46 --> Class 'App\Controllers\ClientModel' not found
+in APPPATH\Controllers\Clientcontrol.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Clientcontrol->save()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clientcontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 13:23:20 --> Class 'App\Controllers\ClientModel' not found
+in APPPATH\Controllers\Clientcontrol.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Clientcontrol->save()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clientcontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 13:23:24 --> Class 'App\Controllers\ClientModel' not found
+in APPPATH\Controllers\Clientcontrol.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Clientcontrol->save()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clientcontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 13:23:25 --> Class 'App\Controllers\ClientModel' not found
+in APPPATH\Controllers\Clientcontrol.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Clientcontrol->save()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clientcontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 13:23:25 --> Class 'App\Controllers\ClientModel' not found
+in APPPATH\Controllers\Clientcontrol.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Clientcontrol->save()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clientcontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 13:39:36 --> Class 'App\Controllers\ClientModel' not found
+in APPPATH\Controllers\Clientcontrol.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Clientcontrol->save()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clientcontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 13:39:39 --> Class 'App\Controllers\ClientModel' not found
+in APPPATH\Controllers\Clientcontrol.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Clientcontrol->save()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clientcontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 13:39:40 --> Class 'App\Controllers\ClientModel' not found
+in APPPATH\Controllers\Clientcontrol.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Clientcontrol->save()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clientcontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 13:40:59 --> Class 'App\Controllers\ClientModel' not found
+in APPPATH\Controllers\Clientcontrol.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Clientcontrol->save()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clientcontrol))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 13:54:47 --> mysqli_query() expects parameter 1 to be mysqli, null given
+in APPPATH\Views\clients.php on line 89.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli_query() expects parameter 1 to be mysqli, null given', 'APPPATH\\Views\\clients.php', 89, [...])
+ 2 APPPATH\Views\clients.php(89): mysqli_query(null, 'select * from client')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\clients.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('clients', [], true)
+ 6 APPPATH\Controllers\Clientcontrol.php(11): view('clients')
+ 7 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Clientcontrol->test()
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clientcontrol))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2023-02-27 13:55:13 --> mysqli_query() expects parameter 1 to be mysqli, null given
+in APPPATH\Views\clients.php on line 89.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mysqli_query() expects parameter 1 to be mysqli, null given', 'APPPATH\\Views\\clients.php', 89, [...])
+ 2 APPPATH\Views\clients.php(89): mysqli_query(null, 'select * from client')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\clients.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('clients', [], true)
+ 6 APPPATH\Controllers\Clientcontrol.php(11): view('clients')
+ 7 SYSTEMPATH\CodeIgniter.php(902): App\Controllers\Clientcontrol->test()
+ 8 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clientcontrol))
+ 9 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
